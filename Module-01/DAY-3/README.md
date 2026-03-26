@@ -21,13 +21,6 @@ To develop a Java program to check given number is zero or not.
 
 
 ## PROGRAM:
- ```
-/*
-Program to implement a class & objects using Java
-Developed by: PRAGATHI KUMAR
-RegisterNumber:  212224230200
-*/
-```
 
 ## Sourcecode.java:
 
