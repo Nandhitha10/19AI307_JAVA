@@ -19,13 +19,7 @@ To create a java program that returns the sum of all the values in a 2D array.
 
 
 ## PROGRAM:
- ```
-/*
-Program to implement a Multi Dimensional Array using Java
-Developed by: PRAGATHI KUMAR
-RegisterNumber:  212224230200
-*/
-```
+
 
 ## Sourcecode.java:
 
