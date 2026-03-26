@@ -21,13 +21,6 @@ b)	If the condition is false, print "false" using the 'print' method of 'System.
 
 
 ## PROGRAM:
- ```
-/*
-Program to implement a variable and operators using Java
-Developed by: PRAGATHI KUMAR
-RegisterNumber:  212224230200
-*/
-```
 
 ## Sourcecode.java:
 
